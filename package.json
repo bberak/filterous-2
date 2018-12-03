@@ -1,6 +1,6 @@
 {
   "name": "filterous",
-  "version": "2.0.4-beta",
+  "version": "2.0.5-beta",
   "description": "Instagram-like photo manipulation library for Node.js and Javascript on browser",
   "main": "lib/index.js",
   "directories": {
